@@ -23,3 +23,7 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 - Do the odd numbered `p` elements share a class?
 - Do the even numbered `div` elements have unique IDs?
 - Does the Number 3 element have multiple classes?
+
+PROBLEMS ENCOUNTERED: 
+P. DejaVu Sans was not working
+S. 'DejaVu Sans' needs quotes to work since the font contains a space!
